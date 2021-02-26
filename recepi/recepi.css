@@ -8,6 +8,7 @@ h1 {
 }
 .p {
     text-indent: 50px;
+   
     
 }
 .par{
@@ -30,4 +31,10 @@ a:hover {
     }
 a:active {
      color: #0000FF;
- }    
+ }  
+.copy1 {
+    text-indent: 30px;
+}  
+.copy2 {
+    text-indent: 50px;
+}
